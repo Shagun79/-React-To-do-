@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+div{
+    margin: auto;
+    text-align: center;
+  
+    padding: 0px;
+    
+}
+h2{
+    color:  black;
+}
+button{
+    padding: 30px 60px;
+    outline: 0;
+border: none;
+color: black;
+background-color:red;
+font-size: 50px;
+
+}
+#userInput{
+    margin: 30px;
+}
+.valueHolder{
+    padding: 0px;
+    padding-top: 0px;
+}
+.valueHolder button{
+    padding: 20px;
+    background-color: aquamarine;
+}
